@@ -1,8 +1,9 @@
 {
     "owner": {
-        "username": "PLAYBIT-STUDIOS"
+        "username": "PLAYBIT-STUDIOS",
+        "email": "mail.playbitstudios@gmail.com"
     },
     "records": {
-        "CNAME": "PLAYBIT-STUDIOS.github.io"
+        "CNAME": "playbit-studios.github.io"
     }
 }
